@@ -1,5 +1,5 @@
 {
-  "name": "primeiro-projeto",
+  "name": "w",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -20,5 +20,16 @@
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
-  "private": true
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegosalvio/FATEC_IPI_PDI_EXERCICIO_REACT_NATIVE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegosalvio/FATEC_IPI_PDI_EXERCICIO_REACT_NATIVE/issues"
+  },
+  "homepage": "https://github.com/diegosalvio/FATEC_IPI_PDI_EXERCICIO_REACT_NATIVE#readme",
+  "description": ""
 }
